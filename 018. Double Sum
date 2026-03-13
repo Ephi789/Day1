@@ -1,0 +1,8 @@
+# Double Sum
+
+a = input("Num a: ")
+b = input("Num b: ")
+
+a, b = int(a), int(b)
+
+print(a*2+b*2)
