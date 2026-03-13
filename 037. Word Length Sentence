@@ -1,0 +1,5 @@
+# Word Length Sentence
+
+word = input("Enter a word: ")
+
+print(f"{word.title()} has {len(word)} letters")
