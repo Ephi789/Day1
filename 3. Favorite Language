@@ -1,0 +1,4 @@
+# Favorite Language
+
+favorite_language = input("What's your favorite programming language: ")
+print(f"I love {favorite_language.title()}")
