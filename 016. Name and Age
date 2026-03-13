@@ -1,0 +1,6 @@
+# Name and Age
+
+name = input("Name: ")
+age = input("Age: ")
+
+print(f"{name.title()} is {age.title()} years old")
