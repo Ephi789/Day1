@@ -1,0 +1,6 @@
+# Greeting System
+
+name = input("Your name: ")
+programming = input("A programming language: ")
+
+print(F"Hello {name.capitalize()}, welcome to {programming.title()}")
