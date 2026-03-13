@@ -1,0 +1,5 @@
+# Add Five
+
+num = int(input("Enter a number: "))
+added_five = num + 5
+print(added_five)
