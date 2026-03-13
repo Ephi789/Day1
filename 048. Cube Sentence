@@ -1,0 +1,5 @@
+# Cube Sentence
+
+num = int(input("Enter a number: "))
+cubed_num = num ** 3
+print(f"{num} cubed is {cubed_num}")
