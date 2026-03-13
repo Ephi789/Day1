@@ -1,0 +1,5 @@
+# Reverse First Three
+
+Reverse_three = input("Enter a word: ")
+
+print((Reverse_three[:3][::-1]))
