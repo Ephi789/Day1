@@ -1,0 +1,4 @@
+# Second Half
+
+word = input("Enter a word: ")
+print(f"{word[int(len(word)/2):]}")
