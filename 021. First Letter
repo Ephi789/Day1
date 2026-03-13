@@ -1,5 +1,5 @@
 # First Letter
 
-word = input("Enter a word: ")
+word = input("Enter a word for the first letter: ")
 
 print(word[0])
