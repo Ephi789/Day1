@@ -1,0 +1,4 @@
+# Name Repeater
+name = input("Enter a name to repeat: ")
+
+print(f"{name.title()} {name.title()}")
