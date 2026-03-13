@@ -1,0 +1,6 @@
+# Favorite Sentence
+
+name = input("Enter your name: ")
+favorite_language = input("Your Favorite programming language: ")
+
+print(f"{name.title()}'s favorite language is {favorite_language.capitalize()}")
