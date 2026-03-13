@@ -1,0 +1,4 @@
+# Cube Report
+
+n = int(input("a number For cube report: "))
+print(f"The cube of {n} is {n**3}")
