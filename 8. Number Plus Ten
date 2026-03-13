@@ -1,0 +1,5 @@
+# Number Plus Ten
+
+Enter_num = input("Number: ")
+Entered_num = int(Enter_num)
+print(Entered_num+10)
