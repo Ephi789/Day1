@@ -1,0 +1,4 @@
+# First and Last
+First_and_last = input("Enter a word: ")
+
+print(First_and_last[0]+First_and_last[-1])
