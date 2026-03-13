@@ -1,0 +1,6 @@
+# Word With Exclamation
+
+word = input("Enter a word: ")
+
+exclamation = "!"*round(len(word)/2)
+print(word+exclamation)
