@@ -1,0 +1,6 @@
+# Year Difference
+
+current_year = int(input("What year are you in: "))
+birth_year = int(input("what year were you born in: "))
+
+print(f"{current_year-birth_year}")
