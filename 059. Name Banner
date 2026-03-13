@@ -1,0 +1,5 @@
+# Name Banner
+
+name = input("Name: ")
+
+print(f"==== {name.capitalize()} ====")
