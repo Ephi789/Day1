@@ -1,0 +1,4 @@
+# First Two Letters
+
+word = input("Enter a word for the first two words: ")
+print(word[:2])
