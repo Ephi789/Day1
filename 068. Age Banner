@@ -1,0 +1,6 @@
+# Age Banner
+
+name = input("Name: ")
+age = int(input("Age: "))
+
+print(f"{name.title()} | {age}")
