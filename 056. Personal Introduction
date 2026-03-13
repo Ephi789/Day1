@@ -1,0 +1,5 @@
+# Personal Introduction
+name = input("What's your name: ")
+age = input("Your age: ")
+
+print(f"My name is {name.title()} I am {age.capitalize()} years old")
