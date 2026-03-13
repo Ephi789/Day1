@@ -1,0 +1,5 @@
+# Double Equation
+
+number = int(input("Enter a number: "))
+
+print(f"{number} + {number} = {number+number}")
