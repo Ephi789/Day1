@@ -1,0 +1,5 @@
+# Language Length
+
+programming_language = input("Enter a language: ")
+
+print(f"{programming_language} contains {len(programming_language)} characters")
