@@ -1,0 +1,7 @@
+# Product Calculator
+
+first_num = int(input("Num1: "))
+second_num = int(input("Num2: "))
+
+
+print(first_num*second_num)
