@@ -1,0 +1,5 @@
+# Lowercase
+
+word_lowercasing = input("Enter a word: ")
+
+print(word_lowercasing.lower())
