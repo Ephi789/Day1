@@ -1,0 +1,6 @@
+# Square Then Add Ten
+
+num = int(input("Enter a number: "))
+squared_num = num **2
+
+print(squared_num+10)
