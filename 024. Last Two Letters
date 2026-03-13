@@ -1,0 +1,4 @@
+# Last Two Letters
+
+word = input('Enter a word for the last two letters: ')
+print(word[-2:])
