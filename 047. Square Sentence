@@ -1,0 +1,4 @@
+# Square Sentence
+
+num = int(input('Enter a number: '))
+print(f"{num} squared is {num**2}")
