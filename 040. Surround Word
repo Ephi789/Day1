@@ -1,0 +1,5 @@
+# Surround Word
+
+word = input("Enter a word: ")
+decor = "*" * int(len(word)/2)
+print(f"{decor}{word}{decor}")
