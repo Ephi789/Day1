@@ -1,0 +1,5 @@
+# Uppercase
+
+word_uppercasing = input("Enter a word: ")
+
+print(f"{word_uppercasing.upper()}")
