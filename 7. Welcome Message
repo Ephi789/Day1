@@ -1,0 +1,5 @@
+# Welcome Message
+name = input("Name: ")
+Computer_language = "python programming"
+
+print(f"Welcome {name.title()} to {language.capitalize()}")
