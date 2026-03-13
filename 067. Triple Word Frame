@@ -1,0 +1,4 @@
+# Triple Word Frame
+
+word = input("Enter a word: ")
+print(f"{word.title()} {word.title()} {word.title()}")
