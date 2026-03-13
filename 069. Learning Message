@@ -1,0 +1,6 @@
+# Learning Message
+
+name = input("Your Name: ")
+programming_language = input("Language: ")
+
+print(f"{name.capitalize()} is becoming a {programming_language.capitalize()} developer")
