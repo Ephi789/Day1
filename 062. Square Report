@@ -1,0 +1,5 @@
+# Square Report
+
+n = int(input("Give me a number: "))
+
+print(f"The square of {n} is {n*n}")
