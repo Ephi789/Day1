@@ -1,0 +1,5 @@
+# Triple Equation
+
+num = int(input("Enter a number: "))
+
+print(f"{num} * 3 = {num * 3}")
