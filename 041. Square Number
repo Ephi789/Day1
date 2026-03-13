@@ -1,0 +1,5 @@
+# Square Number
+
+num = int(input("Enter a number: "))
+squared = num ** 2
+print(squared)
