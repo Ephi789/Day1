@@ -1,0 +1,8 @@
+# Multiplication Sentence
+
+a = input("Enter num a: ")
+b = input("Enter num b: ")
+
+a, b = int(a), int(b)
+
+print(f"{a} * {b} = {a*b}")
