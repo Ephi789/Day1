@@ -1,0 +1,5 @@
+# Word Repeat
+
+word_repeating = input("Enter a word: ")
+
+print(word_repeating*3)
