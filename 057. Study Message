@@ -1,0 +1,6 @@
+# Study Message
+
+name = input("Your name: ")
+Programming_language = input("Enter a language: ")
+
+print(f"{name.title()} is studying {Programming_language.title()}")
