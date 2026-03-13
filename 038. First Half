@@ -1,0 +1,5 @@
+# First Half
+
+FirstHalf_letters = input("Enter a word: ")
+
+print(f"{FirstHalf_letters[:int(len(FirstHalf_letters)/2)]}")
