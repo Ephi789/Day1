@@ -1,0 +1,4 @@
+# First Three Letters
+
+word = input("Enter a word for the first three letters: ")
+print(word[:3])
