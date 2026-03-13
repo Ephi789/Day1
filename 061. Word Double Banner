@@ -1,0 +1,5 @@
+# Word Double Banner
+
+word = input("Enter a word: ")
+
+print(word.title()*2)
