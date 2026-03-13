@@ -1,0 +1,6 @@
+#  Triple Number
+
+user_num = int(input("Enter a number: "))
+
+print(user_num*3)
+
