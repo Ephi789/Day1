@@ -1,0 +1,5 @@
+# Word Frame
+
+word = input("Word: ")
+
+print(f"[{word.title()}]")
