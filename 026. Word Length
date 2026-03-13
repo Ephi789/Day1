@@ -1,0 +1,5 @@
+# Word Length
+
+word_length = input("Enter a word: ")
+
+print(len(word_length))
