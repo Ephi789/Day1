@@ -1,0 +1,6 @@
+# Simple Message
+
+name = input("Name: ")
+language = input("Your favorite programming language: ")
+
+print(f"{name.title()} loves {language.title()}")
